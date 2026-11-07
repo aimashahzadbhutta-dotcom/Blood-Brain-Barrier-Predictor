@@ -1,0 +1,8 @@
+Name,Molecular_Weight,Solubility,Toxicity,Activity,MW_Pass,Sol_Pass,Tox_Pass,Act_Pass,Rule_passed,classification
+Drug_A,320,0.7,0.1,0.8,Pass,Pass,Pass,Pass,4,Can cross BBB
+Drug_B,480,0.2,0.3,0.6,Fail,Fail,Fail,Pass,1,Cannot cross BBB
+Drug_C,210,0.9,0.05,0.9,Pass,Pass,Pass,Pass,4,Can cross BBB
+Drug_D,550,0.6,0.15,0.7,Fail,Pass,Pass,Pass,3,Possibly crosses BBB
+Drug_E,380,0.4,0.25,0.4,Pass,Pass,Fail,Fail,2,Cannot cross BBB
+Drug_F,290,0.8,0.08,0.75,Pass,Pass,Pass,Pass,4,Can cross BBB
+Drug_H,490,0.3,0.7,0.85,Fail,Fail,Fail,Pass,1,Cannot cross BBB
